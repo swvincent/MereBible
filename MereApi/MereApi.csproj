@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="BibleUtil" Version="1.3.2" />
+  </ItemGroup>
+
 </Project>
